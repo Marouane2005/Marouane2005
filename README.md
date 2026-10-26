@@ -1,77 +1,45 @@
-# Hi, I'm Marouane El Aasri 👋
+# Marouane El Aasri
 
-Cybersecurity enthusiast focused on Applied Machine Learning, AI Security, and Secure Software Development.
+**Cybersecurity · Applied Machine Learning · AI Security · Secure Software Development**
+London, UK · [LinkedIn](https://www.linkedin.com/in/marouane-el-aasri-41b846296/)
 
-![](https://komarev.com/ghpvc/?username=Marouane2005&color=blue)
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marouane2005&show_icons=true&theme=github_dark)
-
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marouane2005&layout=compact&theme=github_dark)
+I build security tooling that is practical, explainable, and easy to deploy, from LLM gateways and intrusion detection to Windows security automation.
 
 ---
 
-## 👨‍💻 About Me
+## Featured Projects
 
-- 🔐 Passionate about Cybersecurity
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 🛡️ Building security-focused software and automation tools
-- 🌱 Continuously expanding my knowledge in AI, Cybersecurity, and Software Engineering
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [**AegisLLM**](https://github.com/Marouane2005/aegisllm) | Open-source LLM security gateway and audit proxy. Detects PII leakage and prompt injection between your apps and LLM providers, then forwards, masks, or blocks. | Python, Docker, Postgres, Redis |
+| [**Sentinel-AI**](https://github.com/Marouane2005/sentinel-ai-cybersecurity) | Deep-learning network intrusion detection system with SHAP explainability, trained on UNSW-NB15. [Live demo](https://huggingface.co/spaces/xomarouane/sentinel-ai-cybersecurity). | TensorFlow, Streamlit, Docker |
+| [**FirewallGuard**](https://github.com/Marouane2005/FirewallGuard) | Windows firewall log analyzer with threat-intelligence enrichment and automated reporting. | PowerShell |
+| [**Security Audit Framework**](https://github.com/Marouane2005/Security-Audit-Framework) | Automated Windows security auditing, risk assessment, and HTML reporting. | PowerShell |
 
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-- Python
-- PowerShell
-- Java
-- JavaScript
-
-### Frameworks & Tools
-
-- TensorFlow
-- Streamlit
-- Docker
-- Git
-- VS Code
+**More:** [Password Checker](https://github.com/Marouane2005/password-checker) (CLI password strength evaluator) · [Diabetes Risk AI](https://github.com/Marouane2005/diabetes-risk-ai) (ML risk-prediction web app)
 
 ---
 
-## 🚀 Featured Projects
+## Focus Areas
 
-### 🛡️ Sentinel-AI Cybersecurity
-Deep Learning-powered Network Intrusion Detection System (NIDS) with SHAP explainability, built using TensorFlow, Streamlit, and Docker.
+- AI and LLM security (prompt injection, data leakage, auditability)
+- Network intrusion detection and explainable AI
+- Windows security automation and blue-team tooling
+- Secure software development
 
-### 🔥 FirewallGuard
-Intelligent Windows Firewall Log Analyzer with Threat Intelligence integration and automated security reporting.
+## Toolbox
 
-### 🔍 Security Audit Framework
-PowerShell framework for automated Windows security auditing, risk assessment, and HTML reporting.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### 🔐 Password Checker
-Python command-line application that evaluates password strength and provides security improvement recommendations.
-
-### 🩺 Diabetes Risk AI
-Machine Learning web application for predicting diabetes risk using patient health data.
-
----
-
-## 🎯 Current Focus
-
-- Network Intrusion Detection Systems (NIDS)
-- Explainable Artificial Intelligence (XAI)
-- Windows Security Automation
-- Machine Learning for Cybersecurity
-- Secure Software Development
+Also familiar with Java and JavaScript.
 
 ---
 
-## 📫 Connect With Me
+## Contact
 
-- 💼 LinkedIn: https://linkedin.com/in/marouane-el-aasri
-- 🐙 GitHub: https://github.com/Marouane2005
+[LinkedIn](https://www.linkedin.com/in/marouane-el-aasri-41b846296/) · [GitHub](https://github.com/Marouane2005)
